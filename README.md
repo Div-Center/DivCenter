@@ -1,4 +1,4 @@
-# Div Center
+# DivCenter
 
 ![David DM](https://david-dm.org/chatMuch/chatMuch.svg) 
 ![Last Commit](https://img.shields.io/github/last-commit/chatMuch/chatMuch)
@@ -44,14 +44,14 @@ To install chatMuch, follow these steps:
 ---
 ## Routes
 
-[Back to Top](#chatmuch)
+[Back to Top](#divcenter)
 
 
 ---
 
 ## Software Requirements
 
-[Back to Top](#chatmuch)
+[Back to Top](#divcenter)
 
 ### Vision
 
@@ -142,7 +142,7 @@ We are incorporating BasicAuth for security purposes. Admins will determine whic
 
 ## Domain Modeling
 
-[Back to Top](#chatmuch)
+[Back to Top](#divcenter)
 
 ### `Users`
 
@@ -173,7 +173,7 @@ We are incorporating BasicAuth for security purposes. Admins will determine whic
 ---
 ## Testing
 
-[Back to Top](#chatmuch)
+[Back to Top](#divcenter)
 
 Here is information about our testing.
 
@@ -181,7 +181,7 @@ Here is information about our testing.
 
 ## Team Agreement
 
-[Back to Top](#chatmuch)
+[Back to Top](#divcenter)
 
 ### Cooperation Plan
 
@@ -314,3 +314,4 @@ ACP but every new feature will live on a different branch. Dev branch and produc
     We will slack each other when a major feature is ready to be merged, and we will have a review at the end of each day. We will also be on Remo throughout the day and maintaining regular communication.
 
 ---
+[Back to Top](#divcenter)
